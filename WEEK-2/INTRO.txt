@@ -2,3 +2,11 @@ Introduction to Python Data Types, Variables and Assignments
 
 What are Data Types?
 Data type is a very important topic in programming 
+
+Boolean Data Type
+This data type is often a result of some comparison operation.
+
+For Example, is today Wednesday?, True/False.
+
+We observe that to arrive at an answer:
+* we, first of all try to establish what today is.
