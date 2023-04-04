@@ -47,3 +47,15 @@ float(5)
 
 print(int("1"))
 
+
+# Mathematical Operations 
+# We can perform mathematical operations on numbers in Python.
+# Foe Example:
+
+print(1 + 1)
+print(1 - 1)
+print(1 * 1)
+print(1 / 1)
+print(1 % 1)
+print(1 ** 1)
+print(1 // 1)

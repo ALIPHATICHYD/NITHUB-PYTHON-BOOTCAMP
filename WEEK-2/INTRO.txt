@@ -18,3 +18,16 @@ This is used to check if something is true or false
 
 Type Conversion 
 Oftentimes, we want to convert one datatype to another. This is possible in python using the specific function for the data type you are trying to convert into.
+
+
+Mathematical Operations On Numbers
+There are many operations that can be performed on numbers. We will talk about them on after the other as we move on 
+Python supports the following mathematical operations on numbers:
+
+Addition: +
+Subtraction: -
+Multiplication: *
+Division: /
+Exponentiation: **
+Floor Division: //
+Modulo: %
