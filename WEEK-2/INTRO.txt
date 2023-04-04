@@ -31,3 +31,22 @@ Division: /
 Exponentiation: **
 Floor Division: //
 Modulo: %
+
+
+Variable
+A variable is a container for a value, which can be of various types. A variable in python is simply a placeholder. Let's see it as a container to hold values for later use.
+
+For Example:
+Instead of: His name is ALIPHATIC, ALIPHATIC is a small boy. ALIPHATIC schools in Lagos. ALIPHATIC is a Nigerian
+
+we can have :
+x = "ALIPHATIC", the statement above becomes;
+His name is x, x is a small boy. x schools in Lagos, x is a Nigerian.
+
+
+Rules of variable naming; 
+* Variables are case sensitive, x is not equal to X
+* A variable name must start with a letter or the underscore character
+* A variable name cannot start with a number
+* A variable name can only contain alpha-numeric characters and underscores (A-z, 0-9, and _ )
+* Variable names are case-sensitive (age, Age and AGE are three different variables)

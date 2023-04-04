@@ -59,3 +59,26 @@ print(1 / 1)
 print(1 % 1)
 print(1 ** 1)
 print(1 // 1)
+
+
+
+# Variables
+# Variables are containers for storing data values.
+
+x = "ALIPHATIC"
+print(x)
+
+
+
+y = 5
+
+
+int_five = int(5.0)
+type_of_x = type(int_five)
+
+x, y = 5,2
+
+
+# Rules of variable naming 
+
+var_2_print7 = 5
