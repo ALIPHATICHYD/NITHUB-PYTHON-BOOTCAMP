@@ -14,3 +14,7 @@ We observe that to arrive at an answer:
 
 The bool() function 
 This is used to check if something is true or false 
+
+
+Type Conversion 
+Oftentimes, we want to convert one datatype to another. This is possible in python using the specific function for the data type you are trying to convert into.

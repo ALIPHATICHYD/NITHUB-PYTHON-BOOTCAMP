@@ -27,3 +27,23 @@ print(type(5 == 2))
 
 # The bool() function
 print(bool("abc"))
+
+
+# Numbers
+# In Python we have data types to handle numbers:
+# Integers int()
+# Float float()
+# Complex complex()
+
+print(type(5.1))
+# Result in terminal >> <class 'float'>
+
+int(5)
+float(5)
+
+# Type Conversion
+# We can convert between types by using different type conversion functions like int(), float(), str(), etc.
+# For example
+
+print(int("1"))
+
