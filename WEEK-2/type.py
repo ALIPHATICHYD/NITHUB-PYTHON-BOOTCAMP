@@ -16,5 +16,14 @@ print(type(5))
 print(5 == 5)
 # Result in terminal >> True.
 
+print(5 == 2)
+# Result in terminal >> False
 
 
+print(type(5 == 2))
+# Result in terminal >> <class 'bool'>
+# The bool there indicates that the datatype is a boolean.
+
+
+# The bool() function
+print(bool("abc"))
