@@ -26,3 +26,7 @@ The specific steps for installing Python on Linux will vary depending on the dis
 * Use your package manager to search for the Python package by typing "sudo apt-get install python" (for Ubuntu/Debian-based distributions) or "sudo yum install python" (for CentOS/Fedora-based distributions).
 * Follow the instructions provided by the package manager to complete the installation.
 * Once installed, type "python" in the terminal to verify that Python has been installed correctly.
+
+Alternatively, you can download the source code from the official Python website and compile it yourself. However, this process is more complicated and requires more technical knowledge.
+
+That's it! You should now have Python installed on your operating system.
