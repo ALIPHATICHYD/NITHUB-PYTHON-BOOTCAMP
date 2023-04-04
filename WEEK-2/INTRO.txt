@@ -50,3 +50,15 @@ Rules of variable naming;
 * A variable name cannot start with a number
 * A variable name can only contain alpha-numeric characters and underscores (A-z, 0-9, and _ )
 * Variable names are case-sensitive (age, Age and AGE are three different variables)
+
+
+Python Naming Conventions
+
+Snake Case 
+This is the most common naming convention in python. It is also known as snake case, snake style, or snake notation. It is a convention that uses underscores to separate words in variable names. For example, the variable name my_first_variable is written in snake case.
+
+Camel Case
+This is another naming convention in python. It is also known as camel style, camel caps, or camel notation. It is a convention that uses capital letters to separate words in variable names. For example, the variable name myFirstVariable is written in camel case.
+
+Pascal Case
+This is another naming convention in python. It is also known as pascal style, pascal caps, or pascal notation. It is a convention that uses capital letters to separate words in variable names. For example, the variable name MyFirstVariable is written in pascal case.
