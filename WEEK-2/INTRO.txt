@@ -10,3 +10,7 @@ For Example, is today Wednesday?, True/False.
 
 We observe that to arrive at an answer:
 * we, first of all try to establish what today is.
+
+
+The bool() function 
+This is used to check if something is true or false 
