@@ -1,0 +1,4 @@
+Introduction to Python Data Types, Variables and Assignments
+
+What are Data Types?
+Data type is a very important topic in programming 
