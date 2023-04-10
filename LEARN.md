@@ -60,3 +60,21 @@ In your browser, navigate to Visual Studio Code download page;
   installed it. The most common location is the Downloads folder.
 * Double-click the installer file to start the installation process and run through the setup.
 * After the installation is complete, Visual Studio Code launches automatically.
+
+## Install the Python extension for Visual Studio Code
+When Visual Studio Code is installed, you can install the Python extension, and, optionally, set up other tools and settings. Visual Studio Code is a powerful code editor and a lightweight general-purpose integrated development environment (IDE) with a wide range of extensions available to provide functionality in various programming languages. The Python extension for Visual Studio Code provides visual cues, such as color coding and autocomplete, and debugging tools to help you write better Python code, and to write code faster. This exercise installs the Python extension to your existing VS Code application.
+
+* In Visual Studio Code, select View > Extensions to open the Extensions view.
+
+* The Visual Studio Code Extensions view lists the installed extensions and recommended extensions from the most popular 
+  on Marketplace.
+
+* Filter the list of available extensions by entering python in the search box at the top of the Extensions view.
+
+* Select the Python extension published by Microsoft (described as IntelliSense (Pylance) and usually the first one in 
+  the list). The details about that extension appear in a tabbed panel on the right.
+
+* In either the Extensions panel, or in the main panel, select Install.
+
+* When the installation is complete, the Install button changes to a Settings ⚙️ icon in the Extensions view or two 
+  buttons, Disable and Uninstall in the main panel. This message lets you know that you've successfully installed the Python extension for Windows.
