@@ -48,3 +48,15 @@ You want to avoid any text editor that has formatting options, like bold, underl
 You'll want to use a tool that's best suited for the unique challenges of writing code. There are plenty of options to choose from, but many developers rely on Visual Studio Code, or VS Code. It's free and available on Windows, macOS, and Linux. It has many features that make it easy to navigate and compile code for all programming languages.
 
 Microsoft provides a Python extension for Visual Studio Code. This extension offers features like syntax highlighting, code navigation, code formatting support, and more. One feature in particular, named IntelliSense, is invaluable when you're getting started. Intellisense provides autocomplete and contextual help as you type.
+
+In your browser, navigate to Visual Studio Code download page;
+
+* The web page displays logos for Windows, Linux, and Mac.
+* Select and download the Visual Studio Code installer for Windows. Most browsers give you the option to either save the 
+  file to your local computer (usually in your Downloads folder) or immediately run the installer file.
+
+## Note
+* After downloading the installer, you may need to open File Explorer and navigate to the location your web browser  
+  installed it. The most common location is the Downloads folder.
+* Double-click the installer file to start the installation process and run through the setup.
+* After the installation is complete, Visual Studio Code launches automatically.
