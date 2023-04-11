@@ -10,3 +10,14 @@ REVISION
 * Numbers,
 * Type conversion,
 * Variables and Variable assignments.
+
+
+
+Class work 
+* How do you perfprm addition of two numbers in Python?
+* How do you perform subtraction of two numbers in Python?
+* How do you perform multiplication of two numbers in Python? 
+* How do you perform division of two numbers in python ?
+* What is type conversion in Python and why is it necessary?
+* What is the function name for integers?
+* What is the function name for float?
