@@ -18,3 +18,17 @@ name = "sage"
 age = 21
 print(f"{name}, {age}")
 print("{}{}".format(name, age))
+
+
+# Floating numbers
+print('Floating Number,PI', 3.14)
+print('Floating Number, gravity', 9.81)
+
+# Complex numbers
+print('Complex number: ', 1 + 1j)
+print('Multiplying complex number: ',(1 + 1j) * (1-1j))
+
+# Declaring the variable at the top first
+
+a = 3 # a is a variable name and 3 is an integer data type
+b = 2 # b is a variable name and 3 is an integer data type
