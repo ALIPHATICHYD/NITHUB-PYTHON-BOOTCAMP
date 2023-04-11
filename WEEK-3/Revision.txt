@@ -1,0 +1,12 @@
+REVISION
+
+* The command line is a textbased interface on your laptop where you can type in commands to perform various tasks,
+* Command Line Basics
+* The Integrated Development Environment(IDE) is a powerful and versitile environment that offers a range of advanced features for writing and running Python Code.
+* We also learnt about Notebooks.
+
+* Data Types in Python,
+* Bolean Type,
+* Numbers,
+* Type conversion,
+* Variables and Variable assignments.
