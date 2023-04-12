@@ -69,3 +69,64 @@ does_exist = 'banana' in fruits
 print(does_exist)  # True
 does_exist = 'lime' in fruits
 print(does_exist)  # False
+
+# Append
+fruits = ['banana', 'orange', 'mango', 'lemon']
+fruits.append('apple')
+print(fruits)           # ['banana', 'orange', 'mango', 'lemon', 'apple']
+fruits.append('lime')   # ['banana', 'orange', 'mango', 'lemon', 'apple', 'lime]
+print(fruits)
+
+# insert
+fruits = ['banana', 'orange', 'mango', 'lemon']
+fruits.insert(2, 'apple') # insert apple between orange and mango
+print(fruits)           # ['banana', 'orange', 'apple', 'mango', 'lemon']
+fruits.insert(3, 'lime')   # ['banana', 'orange', 'apple', 'mango', 'lime','lemon',]
+print(fruits)
+
+# remove
+fruits = ['banana', 'orange', 'mango', 'lemon']
+fruits.remove('banana')
+print(fruits)  # ['orange', 'mango', 'lemon']
+fruits.remove('lemon')
+print(fruits)  # ['orange', 'mango']
+
+# pop
+fruits = ['banana', 'orange', 'mango', 'lemon']
+fruits.pop()     
+print(fruits)       # ['banana', 'orange', 'mango']
+
+fruits.pop(0)     
+print(fruits)       # ['orange', 'mango'] 
+
+# del 
+fruits = ['banana', 'orange', 'mango', 'lemon']
+del fruits[0]     
+print(fruits)       # ['orange', 'mango', 'lemon']
+
+del fruits[1]     
+print(fruits)       # ['orange', 'lemon']
+del fruits
+print(fruits)       # This should give: NameError: name 'fruits' is not defined
+
+# clear
+fruits = ['banana', 'orange', 'mango', 'lemon']
+fruits.clear()     
+print(fruits)       # []
+
+# copying a lits
+
+fruits = ['banana', 'orange', 'mango', 'lemon']
+fruits_copy = fruits.copy()     
+print(fruits_copy)       # ['banana', 'orange', 'mango', 'lemon']
+
+# join
+positive_numbers = [1, 2, 3,4,5]
+zero = [0]
+negative_numbers = [-5,-4,-3,-2,-1]
+integers = negative_numbers + zero + positive_numbers
+print(integers)
+fruits = ['banana', 'orange', 'mango', 'lemon']
+vegetables = ['Tomato', 'Potato', 'Cabbage','Onion', 'Carrot'] 
+fruits_and_vegetables = fruits + vegetables
+print(fruits_and_vegetables )
