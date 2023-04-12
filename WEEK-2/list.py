@@ -17,3 +17,24 @@ print('Number of animal products:', len(animal_products))
 print('Web technologies:', web_techs)
 print('Number of web technologies:', len(web_techs))
 print('Number of countries:', len(countries))
+
+
+# Modifying list
+
+fruits = ['banana', 'orange', 'mango', 'lemon'] 
+first_fruit = fruits[0] # we are accessing the first item using its index
+print(first_fruit)      # banana
+second_fruit = fruits[1]
+print(second_fruit)     # orange
+last_fruit = fruits[3]
+print(last_fruit) # lemon
+# Last index
+last_index = len(fruits) - 1
+last_fruit = fruits[last_index]
+
+# Accessing items
+fruits = ['banana', 'orange', 'mango', 'lemon'] 
+last_fruit = fruits[-1]
+second_last = fruits[-2]
+print(last_fruit)       # lemon
+print(second_last)      # mango
