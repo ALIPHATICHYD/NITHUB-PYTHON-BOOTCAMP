@@ -1,6 +1,5 @@
 ## Installation Of Python 
 
-
 ## Installation Python On Windows 
 * Go to the official Python website at https://www.python.org/downloads/windows/.
 * Click on the "Download Python" button for the latest version of Python for Windows.
