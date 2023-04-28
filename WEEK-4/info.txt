@@ -16,11 +16,13 @@ Adding to a dictionary
 
 Removing items from from a dictionary 
 
-*
+* .remove(item):
 
-*
+* .discard(item):
 
-*
+* .clear(): empties the set
+
+* .del()
 
 
 
@@ -28,3 +30,19 @@ More Operations can be performed on a dictionary
 * say we have my_dict = {"a":5, "b":2, "c":3, "d":25}
 
 * my_dict keys 
+
+
+
+Python Set 
+Set is another commonly used data structure in python
+
+Features of a Set
+
+
+Adding items to a set 
+
+* .add(new_item):
+
+* .update()
+
+* .union()
