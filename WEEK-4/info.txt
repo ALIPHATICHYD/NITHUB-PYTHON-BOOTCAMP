@@ -6,3 +6,25 @@ Changing items in a dictionary
 Just like lists a dictionary is changeable and there are different methods to add, remove, clear or delete a dictionary.
 
 To change the values of existing keys, we have two ways of doing this:
+
+
+
+
+
+Adding to a dictionary
+
+
+Removing items from from a dictionary 
+
+*
+
+*
+
+*
+
+
+
+More Operations can be performed on a dictionary 
+* say we have my_dict = {"a":5, "b":2, "c":3, "d":25}
+
+* my_dict keys 
