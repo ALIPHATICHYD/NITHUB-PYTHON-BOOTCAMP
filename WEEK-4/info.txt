@@ -1,0 +1,8 @@
+PYTHON DICTIONARIES 
+
+
+
+Changing items in a dictionary
+Just like lists a dictionary is changeable and there are different methods to add, remove, clear or delete a dictionary.
+
+To change the values of existing keys, we have two ways of doing this:
