@@ -6,7 +6,8 @@ We can access ites of a dictionary in two ways: say we have a dictionary; my_dic
 
 * Using the get metho as in my_dict.get(key, default) e.g my_dict.get("a", None) this will give 1.
 
-Note: The difference between the two methods is that the square bracket option will throwan errorif that key is not in the dictionary but the get method will return the default value if the key is not present.
+Note: The difference between the two methods is that the square bracket option will throwan error if that key is not in the dictionary but the get method will return the default value if the key is not present.
+The default value can be set to anything but if we dont set it, it will be None by default.
 
 
 
