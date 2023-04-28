@@ -1,5 +1,13 @@
 PYTHON DICTIONARIES 
 
+Accessing elements of a Dictionary.
+We can access ites of a dictionary in two ways: say we have a dictionary; my_dict= {"a":1, "b":2, "c":3}
+* Using the key in a square bracket e.g my_dict["a"] will give 1.
+
+* Using the get metho as in my_dict.get(key, default) e.g my_dict.get("a", None) this will give 1.
+
+Note: The difference between the two methods is that the square bracket option will throwan errorif that key is not in the dictionary but the get method will return the default value if the key is not present.
+
 
 
 Changing items in a dictionary
@@ -7,6 +15,11 @@ Just like lists a dictionary is changeable and there are different methods to ad
 
 To change the values of existing keys, we have two ways of doing this:
 
+* We can do my_dict[key]= new_value
+example: my_dict[a] = 100, my_dict becomes {"a":100, "b":2, "c":3}
+
+* We can use the update function
+example: my_dict.update({"a":5}), my_dict becomes {"a":5, "b":2, "c":3}
 
 
 
