@@ -1,5 +1,15 @@
 Comparison Operators 
 
+* What are Comparison Operators?
+* Uses of Comparison Operators
+* Operator and Operand
+* Types of Comparison Operators in Python
+* More types of Comparison Operators in Python
+* Summary
+
+
+
+
 Exercises
 * What is the purpose of a comparison Operators in Python?
 * What are the six common comparison operators in Python?
