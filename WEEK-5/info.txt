@@ -25,8 +25,43 @@ There are two sides to using a Comparison Operator. They are;
 
 
 * Types of Comparison Operators in Python
+In Python, there are several Comparison Operators. The common ones are;
+
+- Equal to (==) : Checks if the values of two operands are equal, if yes then the condition becomes true. 
+
+- Not equal to (!=): Checks if the values of two operands are not equal, if values are not equal then the condition becomes true.
+
+- Less than (< ): Checks if the value of the left operand is less than the value of the right operand, if yes then the condition becomes true.
+
+- Greater than (>): Checks if the value of the left operand is greater than the value of the right operand, if yes then the condition becomes true. 
+
+- Less than or equal to (<=): Checks if the value of the left operand is less than or equal to the value of the right operand, if yes then the condition becomes true.
+
+- Greater than or equal to (>=): Checks if the value of the left operand is greater than or equal to the value of the right operand, if yes then the condition becomes true. 
+
+
 * More types of Comparison Operators in Python
+Other Comparison Operators in Python are;
+
+- Object identity (is): Checks if two values are the same object. This operator returns True if the two values are the same object, and False if they are not
+
+- Negated object identity (is not): Checks if two values are not equal. This operator returns True if the two values are not equal and False if the two values are equal.
+
+- Membership operator (in): Checks if a value is present in a sequence. This operator returns True if the value is present in the sequence, and False if it is not.
+
+- Negated Membership operator (not in): Check if two values are not in the same object. This operator returns True if the two values are not the same object, and False if they are.
+
+- Not operator (not): Used to reverse the result of a comparison operator. This operator returns False if the comparison operator returns True, and True if the comparison operator returns False.
+
+
 * Summary
+In summary;
+
+1. Comparison operators are used to compare two values and determine the relationship between them.
+2. Comparison operators can be used to create conditions within programs that can be used to control the flow of the program.
+3. Comparison operators can be combined with other operators for more complex comparisons.
+4. Comparison operators should be used with caution, as incorrect use can lead to unexpected results.
+
 
 
 
