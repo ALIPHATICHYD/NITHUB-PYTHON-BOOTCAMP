@@ -73,3 +73,10 @@ Exercises
 * What is the result os the exprrssion 10 < 5 in Python?
 * What is the the result of the expression 5 >= 5 in Python?
 * How does Python compare two strings using the <and> operator? 
+* What is the result of the expression "apple" < "banana" in Python?
+* What is the result of the expression "apple" == "Apple" in Python?
+* How does Python compare two lists using the == operator?
+* What is the result of the expression [1, 2, 3] != [1, 2, 4] in Python?
+* What is the result of the expression "cat" in ["cat", "dog", "bird"] in Python?
+* What is the result of the expression 5 < 2 or 10 > 2 in Python?
+* What is the result of the expression 5 < 10 and 10 > 2 in Python?
