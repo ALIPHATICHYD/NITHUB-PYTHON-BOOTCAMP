@@ -1,8 +1,29 @@
 Comparison Operators 
 
 * What are Comparison Operators?
+- Comparison Operators are operators used in a programming language to compare two values and determine their relationship to one another.
+
 * Uses of Comparison Operators
+Comparison Operators are used for the following reasons;
+- Comparison operators are used to compare two values and determine the relationship between them.
+  This can be used to create conditions within programs that can be used to control the flow of the program.
+  For example, if a program needs to check if a user supplied number that is greater than 10, a comparison operator can be used to check if the number is greater than 10.
+  If so, the program can take the appropriate action.
+
+- Comparison operators can also be used in combination with other operators for more complex comparisons.
+  For example, a program can use a combination of comparison operators to check if a number is between two values, such as greater than 10 but less than 20.
+
+
 * Operator and Operand
+There are two sides to using a Comparison Operator. They are;
+
+- Operator: An operator is a symbol that is used to perform an operation on one or more operands.
+  Examples of common operators are arithmetic operators and logical operators. Operators can be combined with operands to form expressions.
+
+- Operand: An operand is an object that is manipulated by an operator. It is usually a variable, a literal value, or a constant. 
+  Operands can be combined with operators to form expressions. For example, in the expression 5 + 10, the values 5 and 10 are the operands and the + is the operator.
+
+
 * Types of Comparison Operators in Python
 * More types of Comparison Operators in Python
 * Summary
