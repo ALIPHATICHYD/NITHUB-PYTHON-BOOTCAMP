@@ -1,0 +1,9 @@
+Comparison Operators 
+
+Exercises
+* What is the purpose of a comparison Operators in Python?
+* What are the six common comparison operators in Python?
+* How does the == operatorr differ form the is operator in Python?
+* What is the result os the exprrssion 10 < 5 in Python?
+* What is the the result of the expression 5 >= 5 in Python?
+* How does Python compare two strings using the <and> operator? 
