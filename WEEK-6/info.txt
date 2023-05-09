@@ -1,1 +1,8 @@
-In Python
+Statements In Python
+
+* IF
+* ELSE
+* IF ELSE
+* NOT 
+* NESTED IF 
+* 
