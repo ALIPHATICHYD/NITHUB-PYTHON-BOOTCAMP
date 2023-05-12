@@ -6,3 +6,7 @@ Statements In Python
 * NOT 
 * NESTED IF 
 * 
+
+
+
+While Loop 
