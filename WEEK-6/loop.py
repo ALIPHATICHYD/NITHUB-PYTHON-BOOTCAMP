@@ -20,4 +20,7 @@ while counter >= 1:
     if counter % 7 == 0:
         print(counter)
 
+    else:
+        print("Not a multiple of 7")
+
     counter -= 1
