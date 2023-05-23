@@ -74,3 +74,17 @@ print(tshirts) # Output: [('red', 'small'), ('red', 'medium'), ('red', 'large'),
 
 
 NOTE: By keeping these points in mind, you can effectively use list comprehension to write concise, readable, and efficient code in Python.
+
+
+SUMMARY
+
+* List comprehensions are a concise way of creating lists in Python.
+
+* They consist of square brackets containing an expression followed by a for clause, which specifies how to generate elements, and optionally one or more if clauses, which filter the elements based on some condition.
+
+* The expression can be a simple variable or a more complex expression involving multiple variables and operations.
+
+* List comprehensions can be nested to create more complex structures.
+
+* They are often more readable and faster than equivalent loops that generate lists using traditional for loops and append statements.
+
