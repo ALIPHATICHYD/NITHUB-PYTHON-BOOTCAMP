@@ -20,3 +20,5 @@ upper_letters = [char for char in message if char.isupper()]
 print(upper_letters)
 # Output: ['H', 'W']
 
+
+## Combining Elements From Two Lists
