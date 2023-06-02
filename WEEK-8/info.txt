@@ -80,7 +80,7 @@ SUMMARY
 
 * List comprehensions are a concise way of creating lists in Python.
 
-* They consist of square brackets containing an expression followed by a for clause, which specifies how to generate elements, and optionally one or more if clauses, which filter the elements based on some condition.
+* They consist of square brackets containing an expression followed by a for clause, which specifies how to generate elements, and optionally    one or more if clauses, which filter the elements based on some condition.
 
 * The expression can be a simple variable or a more complex expression involving multiple variables and operations.
 
