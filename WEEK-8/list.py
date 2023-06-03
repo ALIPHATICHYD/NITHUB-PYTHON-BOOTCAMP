@@ -21,6 +21,7 @@ print(upper_letters)
 # Output: ['H', 'W']
 
 
+
 # Combining Elements From Two Lists
 
 numbers = [1, 2, 3]
