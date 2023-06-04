@@ -65,3 +65,12 @@ def play_game():
 
 play_game()
 print("\nThanks for playing!")
+
+
+# In this program, the choices list stores the available options of rock, paper, and scissors. The score dictionary keeps track of the score for the human and computer players.
+
+# The determine_winner function compares the choices made by the human and computer to determine the winner based on the game rules.
+
+# The play_game function runs the main game loop. It prompts the human player for their choice and generates a random choice for the computer player using the random.choice function. It then determines the winner and updates the score accordingly. The game continues until the human player enters "q" or "quit" to end the game.
+
+# After the game ends, the program displays the final score.
