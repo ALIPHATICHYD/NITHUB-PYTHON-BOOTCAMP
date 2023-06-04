@@ -16,6 +16,7 @@ Bonus.
 Keep track of the score
 """
 
+
 import random
 
 choices = ["rock", "paper", "scissors"]
@@ -31,4 +32,18 @@ def determine_winner(human_choice, computer_choice):
     ):
         return "human"
     else:
-        return "computer"  
+        return "computer"
+
+def play_game():
+    global score
+    while True:
+        print("\nLet's play Rock-Paper-Scissors!")
+        print("Enter your choice (rock, paper, or scissors), or 'q' to quit:")
+        human_choice = input().lower()
+
+        if human_choice == "q" or human_choice == "quit":
+            break
+
+        if human_choice not in choices:
+            print("Invalid choice. Please try again.")
+            continue
