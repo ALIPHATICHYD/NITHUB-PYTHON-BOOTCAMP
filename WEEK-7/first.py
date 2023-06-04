@@ -62,3 +62,6 @@ def play_game():
             score["computer"] += 1
 
         print("Score: Human -", score["human"], "Computer -", score["computer"])
+
+play_game()
+print("\nThanks for playing!")
