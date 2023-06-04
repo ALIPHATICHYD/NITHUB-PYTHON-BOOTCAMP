@@ -15,3 +15,8 @@ Hint.
 Bonus.
 Keep track of the score
 """
+
+import random
+
+choices = ["rock", "paper", "scissors"]
+score = {"human": 0, "computer": 0}
