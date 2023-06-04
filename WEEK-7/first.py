@@ -47,3 +47,18 @@ def play_game():
         if human_choice not in choices:
             print("Invalid choice. Please try again.")
             continue
+
+        computer_choice = random.choice(choices)
+        print("Computer chooses:", computer_choice)
+
+        winner = determine_winner(human_choice, computer_choice)
+        if winner == "tie":
+            print("It's a tie!")
+        elif winner == "human":
+            print("You win!")
+            score["human"] += 1
+        else:
+            print("Computer wins!")
+            score["computer"] += 1
+
+        print("Score: Human -", score["human"], "Computer -", score["computer"])
