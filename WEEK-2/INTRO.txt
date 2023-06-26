@@ -1,7 +1,7 @@
 Introduction to Python Data Types, Variables and Assignments
 
 What are Data Types?
-Data types are very important topic in programming 
+Data types are an important topic in programming 
 
 Boolean Data Type
 This data type is often a result of some comparison operation.
@@ -61,4 +61,4 @@ Camel Case
 This is another naming convention in Python. It is also known as camel style, camel caps, or camel notation. It is a convention that uses capital letters to separate words in variable names. For example, the variable name myFirstVariable is written in the camel case.
 
 Pascal Case
-This is another naming convention in Python. It is also known as Pascal style, Pascal caps, or Pascal notation. It is a convention that uses capital letters to separate words in variable names. For example, the variable name MyFirstVariable is written in Pascal case.
+This is another naming convention in Python. It is also known as Pascal style, Pascal caps, or Pascal notation. It is a convention that uses capital letters to separate words in variable names. For example, the variable name MyFirstVariable is written in Pascal's case.
