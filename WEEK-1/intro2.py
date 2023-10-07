@@ -35,3 +35,24 @@
 
 
 # Working with Numbers
+from math import *
+
+my_num = 5
+
+print (str(my_num) + " is my favorite number")  # Converts the number into a string
+
+print(abs(my_num))  # Returns the absolute value of the number
+
+print (pow(3, 2))  # Raises the first number to the power of the second number
+
+print (round(3.7))  # Rounds the number to the nearest integer
+
+print (floor(3.7))  # Rounds the number down to the nearest integer
+
+print (ceil(3.7))  # Rounds the number up to the nearest integer
+
+print (sqrt(36))  # Returns the square root of the number
+
+
+# Getting input from the users
+
