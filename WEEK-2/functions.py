@@ -28,4 +28,30 @@ print(result)
 # If Statements 
 # If statements are used to check conditions and change the behavior of the program accordingly. If the condition is true, the code inside the if statement will be executed. If the condition is false, the code inside the if statement will not be executed. We can also use else and elif statements to check for multiple conditions. We can also use comparison operators to compare two values. We can also use logical operators to combine multiple conditions.
 
-# 
+# An Example of a Basic If Statement
+# I wake up
+# If I'm hungry 
+#     I eat breakfast
+
+# I leave my house 
+# If it's cloudy 
+#     I bring an umbrella
+# otherwise
+#     I bring sunglasses
+
+# I'm at a restaurant
+# If I want meat
+#     I order a steak
+# otherwise if I want pasta
+#     I order spaghetti & meatballs
+# otherwise
+#     I order a salad.
+
+# Creating a Boolean Variable
+
+is_male = True
+
+if is_male:
+    print("You are a male")
+else:
+    print("You are not a male")
