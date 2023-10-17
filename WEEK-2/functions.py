@@ -17,6 +17,15 @@ say_wagwan("BETA", "17")
 # The Return Keyword can basically allow Python to return information from a function.
 
 def cube(num):
-    return num*num*num
+    return num*num*num # This will return the value of num*num*num
 
-print(cube(3))
+
+result = cube(3)
+print(result)
+
+
+
+# If Statements 
+# If statements are used to check conditions and change the behavior of the program accordingly. If the condition is true, the code inside the if statement will be executed. If the condition is false, the code inside the if statement will not be executed. We can also use else and elif statements to check for multiple conditions. We can also use comparison operators to compare two values. We can also use logical operators to combine multiple conditions.
+
+# 
