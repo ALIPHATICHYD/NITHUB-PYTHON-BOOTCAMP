@@ -25,3 +25,22 @@ print("Done with Loop")
 # For loops are used to iterate through a sequence, this sequence can be a list, a dictionary, a tuple, a set, or a string.
 
 # Creating a For Loop
+
+for letter in "ALIPHATIC HYDROCARBON":
+    print(letter)
+
+friends = ["Jide", "Kero", "Walzeem"]
+for friend in friends:
+    print(friend)
+
+
+for index in range(len(friends)):
+    print(index)
+
+for index in range(len(friends)):
+    print(friends[index])
+    friends[2]
+
+
+
+# Exponent Function
