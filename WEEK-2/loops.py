@@ -59,3 +59,23 @@
 
 
 # 2D Lists and Nested Loops
+
+# Creating a 2D List and accessing Elements in it.
+number_grid = [
+    [1, 2, 3],
+    [4, 5, 6],
+    [7, 8, 9],
+    [0]
+]
+
+# print(number_grid[3][0])
+
+# Using For Loop 
+
+for row in number_grid: # To print out the row
+    print(row)
+
+
+for row in number_grid: # To print out the column
+    for col in row:
+        print(col)
