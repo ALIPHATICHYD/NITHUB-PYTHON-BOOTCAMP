@@ -44,3 +44,17 @@ for index in range(len(friends)):
 
 
 # Exponent Function
+# This will basically take two numbers and raise the first number to the power of the second number
+
+# Example of the Exponent Function
+print(2**3)
+
+# Creating the Function
+
+def raise_to_power(base_num, pow_num):
+    result = 1
+    for index in range(pow_num):
+        result = result * base_num
+        return result
+    
+print(raise_to_power(3,4))
