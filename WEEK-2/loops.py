@@ -12,3 +12,16 @@ while i <= 100:
     i += 1
 
 print("Done with Loop")
+
+
+
+
+
+
+
+
+# For Loops in Python
+
+# For loops are used to iterate through a sequence, this sequence can be a list, a dictionary, a tuple, a set, or a string.
+
+# Creating a For Loop
