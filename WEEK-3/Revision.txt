@@ -21,3 +21,15 @@ Class work
 * What is type conversion in Python and why is it necessary?
 * What is the function name for integers?
 * What is the function name for float?
+
+
+
+
+Building a Translator
+
+Giraffe Language 
+vowels -> g
+----------------
+
+dog -> dgg
+cat -> cgt 
