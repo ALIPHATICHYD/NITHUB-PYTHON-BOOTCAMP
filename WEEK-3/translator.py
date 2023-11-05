@@ -1,4 +1,5 @@
 # Building a Translator
+# Vowels -> g
 
 def translate(phrase):
     translation = ""
