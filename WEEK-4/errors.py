@@ -7,4 +7,11 @@ try:
 except ZeroDivisionError as err:
     print(err)
 except ValueError:
-    print("Invalid Input") 
+    print("Invalid Input")   
+
+
+
+
+# Opening Files in Python
+
+open(employees.txt, "r")

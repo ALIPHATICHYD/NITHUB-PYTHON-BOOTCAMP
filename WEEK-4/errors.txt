@@ -1,7 +1,19 @@
 Try Except: Catching Errors In Python
 
-Python is a great language for beginners because it is easy to read and understand. However, you should not be fooled by its simplicity. Python is a powerful language that can be used to create complex applications. In this article, we will discuss how to use try except statements in Python to catch errors and handle them gracefully.
+Python is a great language for beginners because it is easy to read and understand. However, you should not be fooled by its simplicity. Python is a powerful language that can be used to create complex applications. In this article, we will discuss how to use try-except statements in Python to catch errors and handle them gracefully.
 
-Python is a high-level programming language that has been around for over 20 years. It’s easy to learn and has a lot of built-in features that make it great for beginners. One of these features is the try except statement, which allows you to catch errors in your code and handle them gracefully.
+Python is a high-level programming language that has been around for over 20 years. It’s easy to learn and has a lot of built-in features that make it great for beginners. One of these features is the try-except statement, which allows you to catch errors in your code and handle them gracefully.
 
-Python is a powerful programming language that can be used to create complex applications. However, it’s also easy for beginners to make mistakes when writing code. One of the most common mistakes is forgetting to catch errors in their code. This article will teach you how to use try except statements in Python so that you can catch errors and handle them gracefully.
+Python is a powerful programming language that can be used to create complex applications. However, it’s also easy for beginners to make mistakes when writing code. One of the most common mistakes is forgetting to catch errors in their code. This article will teach you how to use try-except statements in Python so that you can catch errors and handle them gracefully.
+
+
+
+
+Reading Files in Python
+
+Jim - Salesman
+Dwight - Salesman
+Pam - Receptionist
+Michael - Manager
+Oscar - Accountant
+
