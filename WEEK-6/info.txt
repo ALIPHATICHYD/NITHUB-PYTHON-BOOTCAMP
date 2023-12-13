@@ -8,4 +8,19 @@ Statements In Python
 * 
 
 
-Classes & Objects in Python 
+Classes & Objects in Python
+
+* Class is a blueprint of an object
+* Object is an instance of a class
+
+* Class is a logical entity
+* Object is a physical entity
+
+* Class is a template
+* Object is a variable
+
+* Class is a user-defined data type
+* Object is a variable of user-defined data type
+
+* Class is a collection of objects
+* Object is a single entity
