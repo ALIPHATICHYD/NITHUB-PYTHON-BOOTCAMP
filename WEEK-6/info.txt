@@ -8,5 +8,4 @@ Statements In Python
 * 
 
 
-
-While Loop 
+Classes & Objects in Python 
