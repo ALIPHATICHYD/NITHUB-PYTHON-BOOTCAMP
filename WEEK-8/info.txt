@@ -7,7 +7,7 @@ It is a more efficient and readable way of writing simple loops that create list
 
 The Syntax for a List Comprehension is:
 
-[expression for item in list]
+[expression for an item in list]
 
 * Uses Of List Comprehension
 
@@ -65,8 +65,8 @@ print(new_numbers) # Output: [2, 2, 6, 4, 10]
 For example:
 colors = ['red', 'green', 'blue']
 sizes = ['small', 'medium', 'large']
-tshirts = [(color, size) for color in colors for size in sizes]
-print(tshirts) # Output: [('red', 'small'), ('red', 'medium'), ('red', 'large'), ('green', 'small'), ('green', 'medium'), ('green', 'large'), ('blue', 'small'), ('blue', 'medium'), ('blue', 'large')]
+t-shirts = [(color, size) for color in colors for size in sizes]
+print(t-shirts) # Output: [('red', 'small'), ('red', 'medium'), ('red', 'large'), ('green', 'small'), ('green', 'medium'), ('green', 'large'), ('blue', 'small'), ('blue', 'medium'), ('blue', 'large')]
 
 4. Avoid excessive complexity: While list comprehensions can be powerful, they can also become complex and difficult to read if used excessively. In such cases, it may be better to use traditional loops or write separate functions to achieve the desired result.
 
@@ -80,11 +80,11 @@ SUMMARY
 
 * List comprehensions are a concise way of creating lists in Python.
 
-* They consist of square brackets containing an expression followed by a for clause, which specifies how to generate elements, and optionally    one or more if clauses, which filter the elements based on some condition.
+* They consist of square brackets containing an expression followed by a for clause, which specifies how to generate elements, and optionally one or more if clauses, which filter the elements based on some condition.
 
 * The expression can be a simple variable or a more complex expression involving multiple variables and operations.
 
 * List comprehensions can be nested to create more complex structures.
 
-* They are often more readable and faster than equivalent loops that generate lists using traditional for loops and append statements.
+* They are often more readable and faster than equivalent loops that generate lists using traditional loops and append statements.
 
